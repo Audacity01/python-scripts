@@ -11,6 +11,9 @@ A collection of handy Python scripts for everyday tasks. No heavy dependencies, 
 | `password_generator.py` | Generates strong random passwords |
 | `csv_to_json.py` | Converts CSV files to JSON |
 | `duplicate_finder.py` | Finds duplicate files by content hash |
+| `web_scraper.py` | Extracts links and titles from web pages (no dependencies) |
+| `log_parser.py` | Parses and summarizes log files with filtering |
+| `port_scanner.py` | Scans common ports on a target host |
 
 ## Usage
 
