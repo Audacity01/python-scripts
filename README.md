@@ -14,6 +14,9 @@ A collection of handy Python scripts for everyday tasks. No heavy dependencies, 
 | `web_scraper.py` | Extracts links and titles from web pages (no dependencies) |
 | `log_parser.py` | Parses and summarizes log files with filtering |
 | `port_scanner.py` | Scans common ports on a target host |
+| `dir_tree.py` | Prints directory tree with file sizes and stats |
+| `text_stats.py` | Word count, reading time, frequency analysis |
+| `env_checker.py` | Checks installed dev tools and environment variables |
 
 ## Usage
 
