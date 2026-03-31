@@ -17,6 +17,9 @@ A collection of handy Python scripts for everyday tasks. No heavy dependencies, 
 | `dir_tree.py` | Prints directory tree with file sizes and stats |
 | `text_stats.py` | Word count, reading time, frequency analysis |
 | `env_checker.py` | Checks installed dev tools and environment variables |
+| `markdown_to_html.py` | Converts Markdown files to HTML |
+| `regex_tester.py` | Test regex patterns interactively or via CLI |
+| `cron_parser.py` | Explain cron expressions in plain English |
 
 ## Usage
 
