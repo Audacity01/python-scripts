@@ -20,6 +20,9 @@ A collection of handy Python scripts for everyday tasks. No heavy dependencies, 
 | `markdown_to_html.py` | Converts Markdown files to HTML |
 | `regex_tester.py` | Test regex patterns interactively or via CLI |
 | `cron_parser.py` | Explain cron expressions in plain English |
+| `api_tester.py` | Simple API testing tool with response timing |
+| `image_resizer.py` | Read image metadata and dimensions (no deps) |
+| `url_checker.py` | Batch check URL availability and response times |
 
 ## Usage
 
