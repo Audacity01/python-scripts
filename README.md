@@ -23,6 +23,9 @@ A collection of handy Python scripts for everyday tasks. No heavy dependencies, 
 | `api_tester.py` | Simple API testing tool with response timing |
 | `image_resizer.py` | Read image metadata and dimensions (no deps) |
 | `url_checker.py` | Batch check URL availability and response times |
+| `yaml_validator.py` | Validate YAML files for common issues |
+| `color_converter.py` | Convert colors between HEX, RGB, and HSL |
+| `system_info.py` | Display system info, disk usage, and network details |
 
 ## Usage
 
